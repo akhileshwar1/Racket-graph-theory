@@ -1,0 +1,12 @@
+---------------------------------------------------------------------------------------------------
+
+Abstract: I want to create a library that deals with all the graph related problems. All of the 
+problems can be solved by representing a digraph by relations,sets, and graphs. So, to start I will
+be translating the above reprs in racket.
+
+
+Relations: Sets with tuples is enough to represent their counterparts in maths. But we have nothing
+for a relation defintion. One needs to understand that a sets with tuples is manifestation of the 
+relation. But there is no need of such an abstract thing as we will work with the real tuples.
+
+
